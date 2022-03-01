@@ -1,8 +1,12 @@
 ###  ✨ Nils' Boilerplate
 
-This repository can be cloned and 
+### About 
 
-### Features to add
+This boilerplate aims to provide an out-of-the-box project-scaffolding to build products/apps on the internet.
+
+This is an open source project, feel free to add whatever features you think add something meaningful to the boilerplate project.
+
+### Features to add (TODO)
 
 - [ ] Controllers
 - [ ] Models
