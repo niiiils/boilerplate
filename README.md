@@ -6,7 +6,17 @@ This boilerplate aims to provide an out-of-the-box project-scaffolding to build 
 
 This is an open source project, feel free to add whatever features you think add something meaningful to the boilerplate project.
 
-### Features to add (TODO)
+### Stack & Technologies
+
+#### Client
+
+The client consists of an ngx-generated app (React templated in TypeScript).
+
+#### Server
+
+### Setup and Contribution
+
+#### Features to add (TODO)
 
 - [ ] Controllers
 - [ ] Models
