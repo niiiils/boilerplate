@@ -1,12 +1,12 @@
 #  ✨ Nils' Boilerplate
 
-### About 
+### 🧬 About 
 
 This boilerplate aims to provide an out-of-the-box project-scaffolding to build products/apps on the internet.
 
 This is an open source project, feel free to add whatever features you think add something meaningful to the boilerplate project.
 
-### Stack & Technologies
+### 📚 Stack & Technologies
 
 #### Client
 
@@ -14,7 +14,7 @@ The client consists of an ngx-generated app (React templated in TypeScript).
 
 #### Server
 
-### Setup and Contribution
+### ⚙️ Setup and Contribution
 
 #### Features to add (TODO)
 
